@@ -9,7 +9,7 @@
 
 **CMP4501 – Applied Reinforcement Learning | Semester Project**
 
-*Student: Aysel Suleyman*
+*Student: Aysel Suleymanova 2105382
 *Track: Option A – Autonomous Driving with Highway-Env*
 
 </div>
